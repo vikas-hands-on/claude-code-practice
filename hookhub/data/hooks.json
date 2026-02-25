@@ -1,0 +1,100 @@
+[
+  {
+    "id": "hook0",
+    "name": "Hook0",
+    "description": "Open-source webhooks-as-a-service with delivery guarantees, retries, and security built in.",
+    "category": "Webhooks",
+    "repoUrl": "https://github.com/hook0/hook0"
+  },
+  {
+    "id": "tacklebox",
+    "name": "Tacklebox",
+    "description": "Serverless webhooks-as-a-service framework with CLI deployment and management dashboard.",
+    "category": "Webhooks",
+    "repoUrl": "https://github.com/tacklebox-webhooks/tackle-box"
+  },
+  {
+    "id": "svix",
+    "name": "Svix",
+    "description": "Enterprise-ready webhooks sending service with automatic retries, signature verification, and management UI.",
+    "category": "Webhooks",
+    "repoUrl": "https://github.com/svix/svix-webhooks"
+  },
+  {
+    "id": "acquia-cloud-hooks",
+    "name": "Acquia Cloud Hooks",
+    "description": "Repository scripts that Acquia Cloud executes on deploy, code update, and database copy events.",
+    "category": "Deployment",
+    "repoUrl": "https://github.com/acquia/cloud-hooks"
+  },
+  {
+    "id": "google-cloud-deploy-hooks",
+    "name": "Google Cloud Deploy Hooks",
+    "description": "Pre-deploy and post-deploy hooks for Google Cloud Deploy delivery pipelines.",
+    "category": "Deployment",
+    "repoUrl": "https://github.com/GoogleCloudPlatform/cloud-deploy-samples"
+  },
+  {
+    "id": "cfn-hooks",
+    "name": "CloudFormation Hooks",
+    "description": "Proactively inspect and validate AWS resource configurations before provisioning.",
+    "category": "Infrastructure",
+    "repoUrl": "https://github.com/aws-cloudformation/aws-cloudformation-samples"
+  },
+  {
+    "id": "terraform-sentinel",
+    "name": "Terraform Sentinel Policies",
+    "description": "Policy-as-code framework that enforces compliance rules on Terraform infrastructure changes.",
+    "category": "Infrastructure",
+    "repoUrl": "https://github.com/hashicorp/terraform-sentinel-policies"
+  },
+  {
+    "id": "serverless-github-webhook",
+    "name": "Serverless GitHub Webhook Listener",
+    "description": "AWS Lambda function that listens to GitHub webhook events via API Gateway.",
+    "category": "CI/CD",
+    "repoUrl": "https://github.com/serverless/examples"
+  },
+  {
+    "id": "github-webhooks",
+    "name": "go-github-webhooks",
+    "description": "Go library for parsing and validating GitHub webhook payloads with type-safe event handling.",
+    "category": "CI/CD",
+    "repoUrl": "https://github.com/go-playground/webhooks"
+  },
+  {
+    "id": "captain-hook",
+    "name": "Captain Hook",
+    "description": "Git hook manager that lets you configure and share Git hooks across your team.",
+    "category": "CI/CD",
+    "repoUrl": "https://github.com/captainhookphp/captainhook"
+  },
+  {
+    "id": "strapi-lifecycle-hooks",
+    "name": "Strapi Lifecycle Hooks",
+    "description": "Document and model lifecycle hooks for Strapi CMS content types with before/after events.",
+    "category": "Lifecycle",
+    "repoUrl": "https://github.com/strapi/strapi"
+  },
+  {
+    "id": "sequelize-hooks",
+    "name": "Sequelize Hooks",
+    "description": "Lifecycle hooks for Sequelize ORM models — beforeCreate, afterUpdate, and more.",
+    "category": "Lifecycle",
+    "repoUrl": "https://github.com/sequelize/sequelize"
+  },
+  {
+    "id": "kong-serverless-functions",
+    "name": "Kong Serverless Functions",
+    "description": "Kong API Gateway plugin to run custom Lua code on pre-function and post-function phases.",
+    "category": "API",
+    "repoUrl": "https://github.com/Kong/kong"
+  },
+  {
+    "id": "hoppscotch",
+    "name": "Hoppscotch",
+    "description": "Open-source API development ecosystem with pre-request scripts and test hooks.",
+    "category": "API",
+    "repoUrl": "https://github.com/hoppscotch/hoppscotch"
+  }
+]
