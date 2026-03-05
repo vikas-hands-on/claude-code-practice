@@ -26,5 +26,5 @@ def play_sound(wav_path: Path) -> None:
 
 
 if __name__ == "__main__":
-    sound_file = Path(__file__).parent / "hooks-notifications" / "ulala.wav"
+    sound_file = Path(__file__).parent / "ulala.wav"
     play_sound(sound_file)
