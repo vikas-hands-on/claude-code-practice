@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "uv run /home/vikas/claude-practice/claude-code-practice/play_sound.py"
+          }
+        ]
+      }
+    ]
+  }
+}
